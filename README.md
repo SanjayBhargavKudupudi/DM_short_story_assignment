@@ -2,7 +2,9 @@
 
 ## Topic: Using Machine Learning to Classify Alzheimer’s Disease Severity from MRI Scans
 
-This repository contains my work based on the [research paper](https://arxiv.org/pdf/2311.01428.pdf) "Identifying Alzheimer Disease Dementia Levels Using Machine Learning Methods" by Md Gulzar Hussain and Ye Shiren. I have created a PowerPoint presentation, Recording, and a Medium article explaining the study's approach in using machine learning to classify Alzheimer's disease severity from MRI scans.
+This repository contains my work based on the [research paper](https://arxiv.org/pdf/2311.01428.pdf) 
+"Identifying Alzheimer Disease Dementia Levels Using Machine Learning Methods" by Authors Md Gulzar Hussain and Ye Shiren. 
+I have created a PowerPoint presentation, Recording, and a Medium article explaining the study's approach in using machine learning to classify Alzheimer's disease severity from MRI scans.
 
 
 
